@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generatior",
+  "version": "1.0.0",
+  "description": "Module 9 Classwork",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vshepard879/portfolio-generatior.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vshepard879/portfolio-generatior/issues"
+  },
+  "homepage": "https://github.com/Vshepard879/portfolio-generatior#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
